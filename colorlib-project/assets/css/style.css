@@ -110,15 +110,6 @@ header {
     background-color: #131212;
 }
 
-/* Mobile hamburger bar icon — hidden on desktop */
-.mobile-menu-bar {
-    display: none;
-}
-
-/* Desktop icons — visible on desktop, hidden on mobile */
-.desktop-icons {
-    display: flex;
-}
 
 /* =============================================
    HEADER BOTTOM — NAVIGATION
